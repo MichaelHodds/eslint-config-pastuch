@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pastuch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My ESLint configuration",
   "author": "Michael Pastuch",
   "license": "UNLICENSED",
